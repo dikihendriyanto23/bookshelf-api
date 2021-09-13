@@ -1,0 +1,10 @@
+{
+    "name": "Dicoding",
+    "year": 2021,
+    "author": "Diki",
+    "summary": "Belajar Back-End Dicoding",
+    "publisher": "DicodingAcademy",
+    "pageCount": 20,
+    "readPage": 5,
+    "reading": true
+}
